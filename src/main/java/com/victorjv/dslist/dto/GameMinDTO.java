@@ -1,4 +1,4 @@
-package com.victorjv.dslist.dtos;
+package com.victorjv.dslist.dto;
 
 import com.victorjv.dslist.entities.Game;
 
