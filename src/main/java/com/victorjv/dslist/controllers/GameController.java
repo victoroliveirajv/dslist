@@ -30,4 +30,7 @@ public class GameController {
 
         return ResponseEntity.ok(gameService.findAll());
     }
+
+
+
 }
